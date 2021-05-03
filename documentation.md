@@ -17,7 +17,7 @@ This is an app for offline and online streaming based of reward points or subscr
 # User Stories
 
 ## Music Player
-
+*priority:* High
 **If the user has no rewards points ads will play during music**
 
 1. As a user I should be able to see the song/album cover art.
@@ -28,18 +28,21 @@ This is an app for offline and online streaming based of reward points or subscr
 
 
 ## Rewards points manager
+*priority:* medium
 
 1. As a user I should be able to see ways I can earn points via watching ads (1 ad per 3 songs).
 2. As a user I should be able to be able to see how many points I have.
 
 ## Music statistics
+*priority:* low
 
 1. As a user I should be able to see most played songs by region,genre and overall.
 2. As a user I should be able to see how long songs,playlists and albums are.
 
 ## User accounts
-
+*priority:* low
 1. As a user I should be able to create a new account.
 2. As a user I should be to login and logout.
 3. As a user I should be able to access family account information i.e paying for family accounts
-4. As a user I should be able to set my user avatars. i.e save server space
+4. As a user I should be able to set my user avatars. i.e save server space ,should be racially ambigious .
+

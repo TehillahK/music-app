@@ -1,8 +1,8 @@
-#What is the music app
+# What is the music app
 
 This is an app for offline and online streaming based of reward points or subscriptions
 
-#Features
+# Features
 
 1. Music player 
     - Lyrics
@@ -14,9 +14,9 @@ This is an app for offline and online streaming based of reward points or subscr
 8. Playlisting  i.e suggestions etc
 9. Music charts
 
-#User Stories
+# User Stories
 
-##Music Player
+## Music Player
 
 **If the user has no rewards points ads will play during music**
 
@@ -27,7 +27,7 @@ This is an app for offline and online streaming based of reward points or subscr
 5. As a user I should be able to read along lyrics of a song currently playing.
 
 
-##Rewards points manager
+## Rewards points manager
 
 1. As a user I should be able to see ways I can earn points via waching ads (1 ad per 3 songs).
 2. As a user I should be able to be able to see how many points I have.

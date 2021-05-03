@@ -32,9 +32,9 @@ This is an app for offline and online streaming based of reward points or subscr
 1. As a user I should be able to see ways I can earn points via waching ads (1 ad per 3 songs).
 2. As a user I should be able to be able to see how many points I have.
 
-##Music statistics
+## Music statistics
 
 1. As a user I should be able to see most played songs by region,genre and overall.
 2. As a user I should be able to see how long songs,playlists and albums are.
 
-##User accounts
+## User accounts

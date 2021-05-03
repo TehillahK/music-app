@@ -38,3 +38,5 @@ This is an app for offline and online streaming based of reward points or subscr
 2. As a user I should be able to see how long songs,playlists and albums are.
 
 ## User accounts
+
+1. As a user I should be able to create a new account.

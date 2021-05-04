@@ -13,6 +13,7 @@ This is an app for offline and online streaming based of reward points or subscr
 7. Artist profiles
 8. Playlisting  i.e suggestions etc
 9. Music charts
+10. Payment methods
 
 # User Stories
 
